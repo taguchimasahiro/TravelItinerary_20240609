@@ -54,4 +54,4 @@
 3. 名古屋市営地下鉄東山線「亀島駅」下車、徒歩約3分
 
 ### マップ
-![トヨタ産業技術記念館マップ](https://www.tcmit.org/visit/access/)
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6521.918836278496!2d136.875985!3d35.182564!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60037693d3ffffff%3A0xa3d447b5c3a3572b!2z44OI44Oo44K_55Sj5qWt5oqA6KGT6KiY5b-16aSo!5e0!3m2!1sja!2sus!4v1717294925521!5m2!1sja!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
