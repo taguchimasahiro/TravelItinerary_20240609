@@ -43,8 +43,4 @@
 
 ### 参考リンク
 
-- [Toyota Global: Toyota Production System](https://global.toyota/en/company/vision-and-philosophy/production-system/)
-- [トヨタ自動車株式会社: トヨタ生産方式](https://www.toyota.co.jp/jpn/company/vision-and-philosophy/production-system/)
-- [Lean Enterprise Institute: What is Lean?](https://www.lean.org/WhatsLean/)
-
-これらのリンクを参考に、トヨタ生産方式についてさらに詳しく学んでみてください。
+- ["トヨタ生産方式" 豊田章男の解釈](https://toyotatimes.jp/spotlights/091.html)
